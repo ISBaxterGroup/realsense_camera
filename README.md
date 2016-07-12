@@ -1,4 +1,4 @@
-#Modify for PCL1.6 and ROS:groovy
+Modify for PCL1.6 and ROS:groovy
 
 # realsense_camera
 use realsense camera in ROS
