@@ -1,4 +1,5 @@
-Modify for PCL1.6 and ROS:groovy
+Modify for PCL1.6 and ROS:groovy environment.
+Source code requires PCL-conversion, so you need to install ros-groovy-pcl-conversion.
 
 # realsense_camera
 use realsense camera in ROS
