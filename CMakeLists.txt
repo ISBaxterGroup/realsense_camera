@@ -29,7 +29,7 @@ endif ()
 
 
 # PCL
-find_package(PCL 1.7 REQUIRED COMPONENTS
+find_package(PCL 1.6 REQUIRED COMPONENTS
     common
     io
 )
